@@ -8,5 +8,11 @@
   width: 90%;
   max-width: 39rem;
   margin: 0 auto;
+  color:#414141;
 }
-
+.title{
+  font-family:'Cinzel', serif;
+  color:#414141;
+  font-size: 96px;
+  text-align: center;
+}
