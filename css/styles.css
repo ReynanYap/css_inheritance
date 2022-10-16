@@ -9,10 +9,29 @@
   max-width: 39rem;
   margin: 0 auto;
   color:#414141;
+  font-size: 17.5px;
+  font-family:'PT Serif', serif ;
+}
+.lead{
+  font-size: 21px;
+
 }
 .title{
   font-family:'Cinzel', serif;
   color:#414141;
   font-size: 96px;
   text-align: center;
+  margin:0 auto;
+}
+.subtitle{
+  font-family:'PT Serif', serif ;
+  color:#7D7D7D;
+  line-height: 1.6;
+  font-size: 36px;
+  margin: 0 auto 80px;
+  width: 70%;
+  text-align: center;
+}
+.link{
+  color: #CA5E10;
 }
